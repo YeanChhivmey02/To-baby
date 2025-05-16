@@ -1,3 +1,3 @@
-# totinhcrush
-Các bạn thay đổi tên ở thư mục Love 
-Các bạn nhấn Ctrl + F và gõ 葛友斌: Thay tên này bằng tên người yêu bạn
+# toyourcrush
+ប្តូរឈ្មោះរបស់អ្នកក្នុង Folder Love
+ចុច Ctrl + F ហើយវាយ 葛友斌: ប្តូរពីឈ្មោះនេះជំនួសទៅជាឈ្មោះគូរស្នេហ៍របស់អ្នក
